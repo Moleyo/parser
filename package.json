@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "ua-parser-js": "^0.7.12"
   }
 }
